@@ -12,7 +12,7 @@ es:
   end: "Final"
   gendered_pay: "Acabar las disparidades salariales condicionadas por el género"
   gendered_pay_info: >
-    El 80% de las trabajadoras/es de la confección son mujeres, las cuales sistemáticamente reciben salarios inferiores a los de sus homólogos masculinos. La desigualdad por razones de género está profundamente arraigada en la industria y su desequilibrio del poder, y la remuneración determinada por el género tiene un vínculo directo con la violencia verbal, física y sexual.
+    El 60% de las trabajadoras/es de la confección son mujeres, las cuales sistemáticamente reciben salarios inferiores a los de sus homólogos masculinos. La desigualdad por razones de género está profundamente arraigada en la industria y su desequilibrio del poder, y la remuneración determinada por el género tiene un vínculo directo con la violencia verbal, física y sexual.
   gender: "Leer más sobre género"
   resilience: "Resiliencia"
   in_the_face_of_a_crisis: "frente a una crisis"
@@ -370,7 +370,7 @@ es:
   a_worker_from_bangladesh: "una trabajadora de Bangladesh"
   gbv_in_bangladesh: "Violencia de género en Bangladesh"
   about_fashion_checker: "Qué es el Verificador de la moda"
-  about_the_campaign: "Acerca de la campaña "
+  about_the_project: "Acerca del proyecto"
   a_living_wage_for_garment_workers: >
     Un salario digno para las trabajadoras/es de la confección y una cadena de suministro transparente.
   menu_about_fashion_checker: "Qué es el Verificador de la moda"
@@ -472,12 +472,11 @@ es:
     Para obtener información sobre cómo hacerlo, dirígete por favor a la página de la campaña Covid-19 en nuestro sitio web.
   follow_our_live_blog_for_the_latest_information: >
     Sigue nuestro blog en vivo para conocer la última información sobre el Covid-19 en la industria de la confección.
-  find_out_more_about_our_demands: "Averigua más sobre nuestras demandas."
+  find_out_more: "Averigua más"
   donate_to_the_campaign: "Dona a la campaña"
   you_can_help_fund_this_campaign: "Puedes ayudar a financiar esta campaña haciendo una donación."
   every_little_bit_helps: >
-    Toda contribución por pequeña que sea, ayuda,
-  future_research_and_translations_of_our_data: "Este dinero se empleará para el mantenimiento del sitio web, futuras investigaciones y traducciones de nuestros datos."
+    Toda contribución por pequeña que sea, ayuda.
   donate: "Dona"
   of_surveyed_brands_aren_t_paying_garment_workers: "de las marcas encuestadas no pagan a los trabajadores de la confección un salario digno"
   want_to_help_workers_fight_for: "¿Quieres ayudar a las trabajadoras/es a luchar por"

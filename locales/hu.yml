@@ -15,7 +15,7 @@ hu:
   end: "SZÁMOLJUK FEL A NEMI"
   gendered_pay: "DISZKRIMINÁCIÓN ALAPULÓ FIZETÉST!"
   gendered_pay_info: >
-    A ruhaipari dolgozók 80%-a nő. Ugyanazért az elvégzett munkáért a nők világszerte kevesebb pénzt kapnak, mint a férfiak.
+    A ruhaipari dolgozók 60%-a nő. Ugyanazért az elvégzett munkáért a nők világszerte kevesebb pénzt kapnak, mint a férfiak.
     A nőket sújtó diszkrimináció a ruhaipar hatalmi berendezkedéséből fakad.
     A nők alacsonyabb fizetést kapnak, mint a férfiak, és részben ebből is adódik, hogy a verbális, fizikai és szexuális erőszaknak is jobban ki vannak téve.
   gender: "Olvass tovább"
@@ -37,7 +37,6 @@ hu:
     Használd Te is a
   your_voice_info_2: >
     jelzést!
-
 
   revenue: "Bevétel"
   profit: "Profit"
@@ -85,11 +84,9 @@ hu:
 
     isolating_labor: "A bérköltségek elkülönítése ?"
     desc:
-      score_1: "A ruhaóriások által a beszállítóknak fizetett összegből a gyártási költségeket, a szállítást, és a bérköltségeket kell kifizetni. Ez a ruhacég nem tesz semmit azért,
-      hogy a bérköltségeket a gyárak maradéktalanul fedezzék.."
+      score_1: "A ruhaóriások által a beszállítóknak fizetett összegből a gyártási költségeket, a szállítást, és a bérköltségeket kell kifizetni. Ez a ruhacég nem tesz semmit azért, hogy a bérköltségeket a gyárak maradéktalanul fedezzék.."
       score_2: "A ruhaóriások által a beszállítóknak fizetett összegből a gyártási költségeket, a szállítást, és a bérköltségeket kell kifizetni. A ruhacégeknek biztosítaniuk kell, hogy a bérköltségeket maradéktalanul fedezik: ennek módja az egységes bérkalkuláció, illetve a bérköltségek elkülönítése más költségektől."
       score_3: "Text for score 3"
-
 
   living_wage_score:
     title: "A SZEGÉNYSÉGI KÜSZÖB ALATTI BÉREK"
@@ -121,7 +118,6 @@ hu:
         Ezért a ruhacéghez köthető munkások nagy része továbbra sem tud tisztességesen megélni a fizetéséből.
       score_1: >
         Vagyis a ruhacéghez köthető gyár munkásai NEM tudnak tisztességesen megélni a fizetésükből.
-
 
   transparency_score:
     title: "Mennyire teszi átláthatóvá a ruhacég a beszállítói láncát?"
@@ -403,7 +399,7 @@ hu:
   a_worker_from_bangladesh: "ruhagyári munkásnő Bangladesből"
   gbv_in_bangladesh: "Nők elleni erőszak"
   about_fashion_checker: "MI AZ A FASHION CHECKER?"
-  about_the_campaign: "MI AZ A FASHION CHECKER?"
+  about_the_project: "MI AZ A FASHION CHECKER?"
   a_living_wage_for_garment_workers: >
     Tisztességes bért a ruhaipari dolgozóknak és átlátható beszállítási láncot!
   menu_about_fashion_checker: "A Fashion Checker kampányról"
@@ -505,12 +501,11 @@ hu:
     Ha többet szeretnél tudni az adományozásról, látogass el a COVID-19 kampány angol nyelvű oldalra!
   follow_our_live_blog_for_the_latest_information: >
     Ha érdekel, mi történik a ruhaiparban a koronavírus idején, kövess minket folyamatosan frissülő élő blogunkon!
-  find_out_more_about_our_demands: "A követeléseinkről bővebben itt:"
+  find_out_more: "Tudjon meg többet"
   donate_to_the_campaign: "Adományozz!"
   you_can_help_fund_this_campaign: "Adományoddal hozzájárulsz a kampány finanszírozásához."
   every_little_bit_helps: >
-    Most minden segítség jól jön! A beérkezett adományokat a honlap működtetésére,
-  future_research_and_translations_of_our_data: "kutatásra, és az adatok, eredmények fordítására szánjuk."
+    Most minden segítség jól jön!
   donate: "Adományozz!"
   of_surveyed_brands_aren_t_paying_garment_workers: "A megkérdezett márkák 93%-a nem fizet tisztességes megélhetést biztosító bért a ruhaipari munkásoknak"
   want_to_help_workers_fight_for: "Szeretnél tenni valamit a"

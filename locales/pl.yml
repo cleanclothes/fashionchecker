@@ -15,7 +15,7 @@ pl:
   end: "Stop"
   gendered_pay: "nierównościom płacowym"
   gendered_pay_info: >
-    80% zatrudnionych w przemyśle odzieżowym to kobiety. Na ogół zarabiają mniej niż mężczyźni wykonujący
+    60% zatrudnionych w przemyśle odzieżowym to kobiety. Na ogół zarabiają mniej niż mężczyźni wykonujący
     tę samą pracę. Nierówności płci są głęboko zakorzenione w nierównowadze sił w tym sektorze, a nierówności
     płacowe wiążą się bezpośrednio z przemocą werbalną, fizyczną i seksualną wobec kobiet.
   gender: "Przeczytaj więcej o kwestii płci w kontekście płac"
@@ -397,7 +397,7 @@ pl:
   a_worker_from_bangladesh: "Pracowniczka w Bangladeszu"
   gbv_in_bangladesh: "raporcie o przemocy uwarunkowanej płcią w Bangladeszu"
   about_fashion_checker: "O Fashion Checker"
-  about_the_campaign: "O kampanii"
+  about_the_project: "O projekcie"
   a_living_wage_for_garment_workers: >
     Godna płaca w przemyśle odzieżowym i transparentny łańcuch dostaw.
   menu_about_fashion_checker: "O Fashion Checker"
@@ -498,12 +498,11 @@ pl:
     Informacje, jak to zrobić, znajdziesz na podstronie kampanii dotyczącej Covid-19.
   follow_our_live_blog_for_the_latest_information: >
     Najnowsze informacje o Covid-19 w przemyśle odzieżowym – w naszym blogu na żywo.
-  find_out_more_about_our_demands: "Dowiedz się więcej o naszych postulatach."
+  find_out_more: "Dowiedz się więcej"
   donate_to_the_campaign: "Przekaż darowiznę na rzecz kampanii"
   you_can_help_fund_this_campaign: "Możesz pomóc w sfinansowaniu tej kampanii, przekazując darowiznę."
   every_little_bit_helps: >
-    Pomoże każda, nawet najdrobniejsza suma. Pieniądze zostaną wykorzystane na utrzymanie tej strony internetowej,
-  future_research_and_translations_of_our_data: "przyszłe badania oraz tłumaczenia naszych danych."
+    Pomoże każda, nawet najdrobniejsza suma.
   donate: "Przekaż darowiznę"
   of_surveyed_brands_aren_t_paying_garment_workers: "badanych marek nie zapewnia pracownikom branży odzieżowej godnej płacy"
   want_to_help_workers_fight_for: "Chcesz pomóc pracownikom walczyć o"

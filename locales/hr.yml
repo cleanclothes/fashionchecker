@@ -15,7 +15,7 @@ hr:
   end: "Ukinimo rodno uvjetovane"
   gendered_pay: "Razlike u plaćama"
   gendered_pay_info: >
-    80 posto odjevnih radnika čine žene. Obično su plaćene manje od svojih muških kolega.
+    60 posto odjevnih radnika čine žene. Obično su plaćene manje od svojih muških kolega.
     Rodna nejednakost duboko je ukorijenjena u neuravnoteženu raspodjelu moći unutar industrije,
     a razlika u plaćama direktno je povezana s verbalnim, fizičkim i seksualnim nasiljem.
   gender: "Pročitajte više o spolu"
@@ -397,7 +397,7 @@ hr:
   a_worker_from_bangladesh: "Radnica iz Bangladeša"
   gbv_in_bangladesh: "Rodno zasnovanom nasilju u Bangladešu"
   about_fashion_checker: "O Kontroloru modne Industrije"
-  about_the_campaign: "O kampanji"
+  about_the_project: "O projektu"
   a_living_wage_for_garment_workers: >
     Dostojanstvena plaća za odjevne radnike i transparentan lanac opskrbe.
   menu_about_fashion_checker: "O Kontroloru modne Industrije"
@@ -499,12 +499,11 @@ hr:
     Kako donirati saznaj na stranici o kampanji Covid-19 na našem webu.
   follow_our_live_blog_for_the_latest_information: >
     Za najnovije informacije o utjecaju virusa Covid-19 na odjevnu industriju posjeti naš live blog.
-  find_out_more_about_our_demands: "Saznaj više o našim zahtjevima"
+  find_out_more: "Saznaj više"
   donate_to_the_campaign: "Doniraj za kampanju"
   you_can_help_fund_this_campaign: "Donacijom možeš pomoći financirati ovu kampanju."
   every_little_bit_helps: >
-    Svaka donacija pomaže. Novac će biti korišten
-  future_research_and_translations_of_our_data: "za održavanje web stranice, buduća istraživanja i prijevod naših podataka."
+    Svaka donacija pomaže.
   donate: "Doniraj"
   of_surveyed_brands_aren_t_paying_garment_workers: "anketiranih brendova ne isplaćuje dostojanstvenu plaću odjevnim radnicima"
   want_to_help_workers_fight_for: "Želiš li pomoći radnicima u borbi za"

@@ -10,6 +10,8 @@
               = t('header_question_1')
             .yellow
               = t('header_question_2')
+            %p.pt-3.yellow.lead
+              = t('find_out')
           -#= brand_profile_partial :search,  locals: { redirect: true }
         .d-none.d-md-block.col-md-6
           %img.float-right{src: "/images/logo/SVG/CCC_FashionChecker_RGB_vertical_spot.svg",
@@ -18,6 +20,22 @@
     .top-extender.red-bg
       &nbsp;
 
+    .pink-bg.skew-right
+      .container-fluid.skew-left
+        .container.py-5.result-container
+          .p-4
+            .row
+              .col-sm-4
+                %img.w-100{ src: "/images/homepage/pie_graph.svg" }
+              .col-sm-8
+                .display-3.red
+                  93%
+                .display-3.black
+                  = t('of_surveyed_brands_aren_t_paying_garment_workers')
+
+    .bottom-extender.pink-bg.extra-extender
+
+
     .yellow-bg.skew-left
       .container-fluid.skew-right
         .container.py-5
@@ -25,8 +43,7 @@
             .col-sm-6
               .display-3.fuchsia.pt-4
                 = t('brands_surveyed')
-              %p.pt-3.navy.lead
-                = t('find_out')
+
             .col-sm-6.text-right.d-flex.justify-content-end
               %table.legendTable.text-left.mb-3
                 = legend_row "search-location", "transparency_score", "title"
@@ -52,20 +69,7 @@
             = partial "partials/brand_profile/score/transparency_stars.html"
     .bottom-extender.yellow-bg.extra-extender
 
-    .pink-bg.skew-right
-      .container-fluid.skew-left
-        .container.py-5.result-container
-          .p-4
-            .row
-              .col-sm-4
-                %img.w-100{ src: "/images/homepage/pie_graph.svg" }
-              .col-sm-8
-                .display-3.red
-                  93%
-                .display-3.black
-                  = t('of_surveyed_brands_aren_t_paying_garment_workers')
 
-    .bottom-extender.pink-bg.extra-extender
 
     .fuchsia-bg.skew-left
       .container-fluid.skew-right
@@ -83,12 +87,11 @@
               .py-3
                 %a.btn.btn-primary.navy-btn{ href: "living_wage.html" }
                   = t('read_more_living_wages')
-          = partial "partials/shared/living_wage_table"
+
 
     .bottom-extender.fuchsia-bg
 
-    .high-z
-      = banner "/images/homepage/textile_scene.png"
+
 
     = section :yellow do
       .row
@@ -101,22 +104,23 @@
         .col-sm-6
           %p.red.lead
             = t('gendered_pay_info')
-          %a.btn.btn-primary{href: "gender.html"}
-            = t('gender')
+          %a.btn.btn-primary{href: "https://cleanclothes.org/gender-discrimination/"}
+            = t('learn_more')
 
     = section :red do
       .row
         .col-sm-6
           .w-75
             .span.display-3.white
-              = t('resilience')
-            .span.display-3.yellow
-              = t('in_the_face_of_a_crisis')
+              = t('your_voice_has_power')
         .col-sm-6.white
           %p.lead
-            = t('resilience_info')
-          %a.btn.btn-primary.navy-btn{ href: "our_demands.html" }
-            = t('our_demands')
+            = t('your_voice_info_1')
+            %span.yellow
+              \#LivingWageNow
+            = t('your_voice_info_2')
+          %a.btn.btn-primary.navy-btn{ href: "https://cleanclothes.org/action" }
+            = t('take_action')
 
     .banner.trio-banner
       .banner-image
@@ -128,17 +132,7 @@
             = t('a_worker_from_india')
 
     = section :navy do
-      .row.pl-5
-        .col-sm-6.voice-has-power
-          %h3
-            = t('your_voice_has_power')
-          %p
-            = t('your_voice_info_1')
-            %span.fuchsia
-              \#LivingWageNow
-            = t('your_voice_info_2')
-          %a.btn.btn-primary{ href: "take_action.html" }
-            = t('take_action')
+
       .row.pt-5
         .col-4.p-4
           %img.w-100{ src: "/images/homepage/olympics.png" }
@@ -146,6 +140,8 @@
           %img.w-100{ src: "/images/homepage/h_m.png" }
         .col-4.p-4
           %img.w-100{ src: "/images/homepage/go_transparent.png" }
+
+
 
     = # partial "partials/homepage/news"
 

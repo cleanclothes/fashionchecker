@@ -15,7 +15,7 @@ fr:
   end: "Un salaire vital:"
   gendered_pay: "pour les hommes comme pour les femmes"
   gendered_pay_info: >
-    80% des travailleurs de l'habillement sont en fait des travailleuses. Pourtant, les femmes
+    60% des travailleurs de l'habillement sont en fait des travailleuses. Pourtant, les femmes
     sont systématiquement payées moins que leurs collègues masculins. Les inégalités de genre sont
     solidement ancrées dans les rapports de force au sein de l'industrie de l’habillement.
     Elles sont aussi directement liées à de la violence verbale, physique et sexuelle.
@@ -403,7 +403,7 @@ fr:
   a_worker_from_bangladesh: "Une travailleuse du Bangladesh"
   gbv_in_bangladesh: "les violences fondées sur le genre au Bangladesh"
   about_fashion_checker: "À propos de Fashion Checker"
-  about_the_campaign: "À propos de la campagne"
+  about_the_project: "À propos du projet"
   a_living_wage_for_garment_workers: >
     Salaire vital et transparence dans l'industrie de l'habillement
   menu_about_fashion_checker: "Fashion Checker"
@@ -506,12 +506,11 @@ fr:
     Pour davantage d'informations, rendez-vous sur la page Covid-19 de notre site.
   follow_our_live_blog_for_the_latest_information: >
     Suivez aussi notre blog en direct pour obtenir les dernières informations relatives au Covid-19 dans l'industrie de l'habillement.
-  find_out_more_about_our_demands: "Plus d'informations sur nos revendications."
+  find_out_more: "Plus d'informations"
   donate_to_the_campaign: "Faites un don pour la campagne"
   you_can_help_fund_this_campaign: "Autre type de don pour aider à financer cette campagne car chaque coup de pouce compte."
   every_little_bit_helps: >
-    Vos dons serviront à maintenir nos canaux d'informations via notre site internet,
-  future_research_and_translations_of_our_data: "nos futures recherches et la traduction de nos publications."
+    Chaque petit geste compte.
   donate: "Faites un don"
   of_surveyed_brands_aren_t_paying_garment_workers: "des marques interrogées sont incapables de prouver qu'elles payent aux travailleur.euses de l’habillement un salaire vital."
   want_to_help_workers_fight_for: "Comment soutenir les travailleurs et travailleuses en lutte"

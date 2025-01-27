@@ -14,7 +14,7 @@ id:
   end: "Akhir"
   gendered_pay: "Upah berdasarkan gender"
   gendered_pay_info: >
-    80% buruh garmen adalah perempuan. Mereka secara rutin dibayar lebih rendah dari  buruh laki-laki.
+    60% buruh garmen adalah perempuan. Mereka secara rutin dibayar lebih rendah dari  buruh laki-laki.
     Ketimpangan berbasis gender berakar secara mendalam pada ketimpangan kekuasaan di dalam industri ini,
     dan upah berdasarkan gender memiliki hubungan langsung dengan kekerasan verbal, fisik, dan seksual.
   gender: "Baca lebih lanjut tentang Gender"
@@ -384,7 +384,7 @@ id:
   a_worker_from_bangladesh: "Seorang buruh dari Bangladesh"
   gbv_in_bangladesh: "KGB di Bangladesh"
   about_fashion_checker: "Tentang Fashion Checker"
-  about_the_campaign: "Tentang kampanye ini"
+  about_the_project: "Tentang proyek ini"
   a_living_wage_for_garment_workers: >
     Upah layak bagi buruh garmen dan rantai pasok yang transparan,
   menu_about_fashion_checker: "About Fashion Checker"
@@ -485,12 +485,11 @@ id:
     Untuk informasi tentang bagaimana melakukannya silahkan kunjungi laman kampanye covid-19 di website kami.
   follow_our_live_blog_for_the_latest_information: >
     Ikuti blog langsung kami untuk informasi mutakhir tentang covid-19 dan industri garmen.
-  find_out_more_about_our_demands: "Temukan lebih banyak tentang tuntutan kami"
+  find_out_more: "Cari tahu lebih lanjut"
   donate_to_the_campaign: "Donasi untuk kampanye"
   you_can_help_fund_this_campaign: "Anda bisa membantu mendanai kampanye ini dengan memberikan donasi."
   every_little_bit_helps: >
-    Setiap donasi sekecil apapun akan membantu. Uang ini akan digunakan untuk memelihara website kami,
-  future_research_and_translations_of_our_data: "riset di masa datang dan penerjemahan data kami."
+    Setiap donasi sekecil apapun akan membantu.
   donate: "Donasi"
   of_surveyed_brands_aren_t_paying_garment_workers: "dari berbagai brand yang tidak membayarkan buruh garmen<br> upah layak"
   want_to_help_workers_fight_for: "Ingin membantu<br>buruh berjuang untuk"

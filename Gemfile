@@ -10,6 +10,8 @@ gem 'ed25519', '>= 1.2'
 gem 'bcrypt_pbkdf', '>= 1'
 gem "rack-cors"
 gem "activesupport", "~>6.1"
+gem 'concurrent-ruby', '< 1.3.4'
+gem 'haml', '~> 5.0'
 
 group :development do
   gem 'rake', '>= 10.4'

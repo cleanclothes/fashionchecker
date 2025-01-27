@@ -15,7 +15,7 @@ zh_hk:
   end: "結束"
   gendered_pay: "性別工資差距"
   gendered_pay_info: >
-    80% 的製衣工人是女性。她們得到的工資通常都低於男性。
+    60% 的製衣工人是女性。她們得到的工資通常都低於男性。
     性別不平等的觀念根深蒂固於該行業的權利不平衡中，
     而性別工資差距又與言語攻擊、人身攻擊和性侵犯有直接的關係。
   gender: "閱讀更多有關性別的問題"
@@ -398,7 +398,7 @@ zh_hk:
   a_worker_from_bangladesh: "來自孟加拉的工人"
   gbv_in_bangladesh: "《孟加拉國基於性別的暴力行為》"
   about_fashion_checker: "關於時裝核查（Fashion Checker）"
-  about_the_campaign: "關於此運動"
+  about_the_project: "關於本計畫"
   a_living_wage_for_garment_workers: >
     製衣工人的生活工資和高透明度的供應鏈
   menu_about_fashion_checker: "時裝核查（Fashion Checker）"
@@ -499,12 +499,11 @@ zh_hk:
     有關如何捐款，請到我們網站上的「新冠肺炎疫情（Covid-19)」專頁，查看更多資料。
   follow_our_live_blog_for_the_latest_information: >
     關注我們的實時博客，獲取有關製衣業和新冠肺炎疫情的最新消息。
-  find_out_more_about_our_demands: "查看更多有關「我們的要求」的資料。"
+  find_out_more: "瞭解更多"
   donate_to_the_campaign: "捐款支持該運動"
   you_can_help_fund_this_campaign: "您可以通過捐款來資助該運動。"
   every_little_bit_helps: >
-    點點滴滴都有很大的幫助。這筆錢將用於網站的維護、
-  future_research_and_translations_of_our_data: "未來的調查項目和翻譯數據"
+    點點滴滴都有很大的幫助。
   donate: "捐款"
   of_surveyed_brands_aren_t_paying_garment_workers: "調查的品牌沒有支付製衣工人<br>生活工資"
   want_to_help_workers_fight_for: "想要幫助<br>工人爭取"

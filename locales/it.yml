@@ -15,7 +15,7 @@ it:
   end: "Basta"
   gendered_pay: "Salario di genere"
   gendered_pay_info: >
-    L’80% di chi lavora nell’abbigliamento sono donne. Di regola, sono pagate meno dei loro colleghi uomini.
+    L’60% di chi lavora nell’abbigliamento sono donne. Di regola, sono pagate meno dei loro colleghi uomini.
     La disuguaglianza di genere è profondamente radicata in un settore con forti squilibri di potere.
     La differenza salariale basata sul genere è strettamente connessa alla violenza verbale, fisica e sessuale.
   gender: "Maggiori informazioni sul salario di genere"
@@ -373,7 +373,7 @@ it:
   a_worker_from_bangladesh: "Una lavoratrice in Bangladesh"
   gbv_in_bangladesh: "Violenza di genere in Bangladesh"
   about_fashion_checker: "Che cos'è Fashion Checker"
-  about_the_campaign: "La campagna"
+  about_the_project: "Il progetto"
   a_living_wage_for_garment_workers: >
     Un salario di sussistenza per i lavoratori dell'abbigliamento e una catena di fornitura trasparente.
   menu_about_fashion_checker: "Che cos'è Fashion Checker"
@@ -475,12 +475,11 @@ it:
     Per saperne di più su cosa puoi fare, consulta la pagina della campagna Covid-19 sul nostro sito.
   follow_our_live_blog_for_the_latest_information: >
     Segui il nostro live blog per gli ultimi aggiornamenti sull’impatto del Covid-19 nel settore dell'abbigliamento.
-  find_out_more_about_our_demands: "Scopri di più sulle nostre richieste."
+  find_out_more: "Scopri di più"
   donate_to_the_campaign: "Dona alla campagna"
   you_can_help_fund_this_campaign: "Puoi contribuire a finanziare questa campagna facendo una donazione."
   every_little_bit_helps: >
-    Ogni aiuto è importante. Questo denaro verrà utilizzato per la manutenzione del sito,
-  future_research_and_translations_of_our_data: "per ricerche future e per le traduzioni."
+    Ogni aiuto è importante.
   donate: "Dona"
   of_surveyed_brands_aren_t_paying_garment_workers: "dei marchi intervistati non sta pagando alle lavoratrici salari dignitosi"
   want_to_help_workers_fight_for: "Vuoi aiutare i lavoratori e le lavoratrici ad ottenere"

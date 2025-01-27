@@ -15,7 +15,7 @@ de:
   end: "Bezahlung"
   gendered_pay: "je nach Geschlecht: Frauen- diskriminierung"
   gendered_pay_info: >
-    80% der Beschäftigten in der Bekleidungsindustrie sind Frauen. Sie werden in der Regel
+    60% der Beschäftigten in der Bekleidungsindustrie sind Frauen. Sie werden in der Regel
     schlechter bezahlt als ihre männlichen Kollegen. Die Ungleichheit zwischen Frauen und
     Männern ist dabei tief im Machtungleichgewicht der Industrie verwurzelt – und
     geschlechtsspezifische Bezahlung steht in direktem Zusammenhang mit verbaler, physischer
@@ -379,7 +379,7 @@ de:
   a_worker_from_bangladesh: "Eine Arbeiterin in Bangladesch."
   gbv_in_bangladesh: "GBV in Bangladesch"
   about_fashion_checker: "Über Fashion Checker"
-  about_the_campaign: "Die Kampagne"
+  about_the_project: "Das Project"
   a_living_wage_for_garment_workers: >
     Ein Existenzlohn für Textilarbeiter*innen und eine transparente Lieferkette
   menu_about_fashion_checker: "Über Fashion Checker"
@@ -482,12 +482,11 @@ de:
 
   follow_our_live_blog_for_the_latest_information: >
     In unserem Live Blog findet ihr die neuesten Informationen über Covid-19 in der Bekleidungsindustrie.
-  find_out_more_about_our_demands: ""
+  find_out_more: "Mehr erfahren"
   donate_to_the_campaign: "Spendet für die Kampagne"
   you_can_help_fund_this_campaign: "Ihr könnt diese Kampagne durch eine Spende mitfinanzieren."
   every_little_bit_helps: >
-    Jede noch so kleine Spende hilft. Das Geld wird für die Wartung der Website,
-  future_research_and_translations_of_our_data: "zukünftige Forschung und Übersetzungen unserer Informationen verwendet."
+    Jede noch so kleine Spende hilft.
   donate: "Jetzt spenden"
   of_surveyed_brands_aren_t_paying_garment_workers: "der befragten Unternehmen zahlen ihren Arbeiter*innen keinen Existenzlohn."
   want_to_help_workers_fight_for: "Möchtest du Arbeiter*innen bei ihrem Kampf um"

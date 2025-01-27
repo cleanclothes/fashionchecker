@@ -15,7 +15,7 @@ en:
   end: "End"
   gendered_pay: "Gendered Pay"
   gendered_pay_info: >
-    80% of garment workers are women. They are routinely paid less than their male
+    60% of garment workers are women. They are routinely paid less than their male
     counterparts. Gender inequality is deeply rooted in the industry's power imbalance,
     and gendered pay has a direct link to verbal, physical and sexual assault.
   gender: "Read more about Gender"
@@ -400,7 +400,7 @@ en:
   a_worker_from_bangladesh: "A worker from Bangladesh"
   gbv_in_bangladesh: "GBV in Bangladesh"
   about_fashion_checker: "About Fashion Checker"
-  about_the_campaign: "About the campaign"
+  about_the_project: "About the project"
   a_living_wage_for_garment_workers: >
     A living wage for garment workers and a transparent supply chain.
   menu_about_fashion_checker: "About Fashion Checker"
@@ -501,12 +501,11 @@ en:
     For information on how to do so please the covid-19 campaign page on our website.
   follow_our_live_blog_for_the_latest_information: >
     Follow our live blog for the latest information on Covid-19 in the garment industry.
-  find_out_more_about_our_demands: "Find out more about our demands."
+  find_out_more: "Find out more"
   donate_to_the_campaign: "Donate to the campaign"
   you_can_help_fund_this_campaign: "You can help fund this campaign by making a donation."
   every_little_bit_helps: >
-    Every little bit helps. This money will be used for website maintenance,
-  future_research_and_translations_of_our_data: "future research and translations of our data."
+    Every little bit helps.
   donate: "Donate"
   of_surveyed_brands_aren_t_paying_garment_workers: "of surveyed brands aren't paying garment workers<br>a living wage"
   want_to_help_workers_fight_for: "Want to help<br>workers fight for"
